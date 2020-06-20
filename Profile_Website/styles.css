@@ -67,7 +67,7 @@ h1, h2{
 }
 
 body{
-    background: url('../images/ken-kaneki-background.JPG') no-repeat ;
+    background: url('Profile/Profile_Website/images/ken-kaneki-background.JPG') no-repeat ;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -99,7 +99,7 @@ body{
         font-style: bold;
     }
     body{
-        background: url('../images/background_small.JPG') no-repeat;
+        background: url('Profile/Profile_Website/images/background_small.JPG') no-repeat;
         background-position: center center;
         background-attachment: fixed;
         background-size: cover;
