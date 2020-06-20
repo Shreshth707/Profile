@@ -36,15 +36,15 @@ div#instagram,div#facebook,div#github{
     margin: 2%;
 }
 #instagram{
-    background: url('../images/instagram_logo.png') no-repeat ;
+    background: url('/images/instagram_logo.png') no-repeat ;
     background-size: contain;
 }
 #facebook{
-    background: url('../images/facebook_logo.png') no-repeat ;
+    background: url('/images/facebook_logo.png') no-repeat ;
     background-size: contain;
 }
 #github{
-    background: url('../images/github-sign.png') no-repeat ;
+    background: url('/images/github-sign.png') no-repeat ;
     background-size: contain;
 }
 #p4{
@@ -67,7 +67,7 @@ h1, h2{
 }
 
 body{
-    background: url('Profile/Profile_Website/images/ken-kaneki-background.JPG') no-repeat ;
+    background: url('/images/ken-kaneki-background.JPG') no-repeat ;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -99,7 +99,7 @@ body{
         font-style: bold;
     }
     body{
-        background: url('Profile/Profile_Website/images/background_small.JPG') no-repeat;
+        background: url('/images/background_small.JPG') no-repeat;
         background-position: center center;
         background-attachment: fixed;
         background-size: cover;
