@@ -40,7 +40,7 @@ div#instagram,div#facebook,div#github{
     background-size: contain;
 }
 #facebook{
-    background: url('/images/facebook_logo.png') no-repeat ;
+    background: url('https://shreshth707.github.io/Profile/Profile_Website/images/facebook_logo.png') no-repeat ;
     background-size: contain;
 }
 #github{
