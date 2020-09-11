@@ -58,6 +58,18 @@ section{
     color: greenyellow;
     font-family: 'Courier New', Courier, monospace;
 }
+a:link {
+    font-size: 200%;
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+  color: magenta;
+}
+a:visited {
+  color: magenta;
+}
+a:hover {
+  color: red;
+}
 h1, h2{
     font-size: 200%;
     font-family: 'Courier New', Courier, monospace;
